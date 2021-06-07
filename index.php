@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <title>Learn Code</title>
+<link rel="stylesheet" href="style.css">
 <body>
 
 <h1>This is a heading</h1>
