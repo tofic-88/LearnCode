@@ -45,7 +45,18 @@ footer {
   margin: 0;
   padding: 0;
 }
-
+.flex-container {
+  display: flex;
+  flex-direction: row;
+}
+.flex-container > div {
+  background: chocolate;
+  flex: 25%;
+  padding: 20px;
+  margin: 10px;
+  font-size: 20px;
+  text-align: center;
+}
 .menu li {
   padding: 8px;
   margin-bottom: 8px;
@@ -56,4 +67,13 @@ footer {
 
 .menu li:hover {
   background-color: yellowgreen;
+}
+
+@media (max-width: 800px) {
+  .column {
+    width: 100%;
+  }
+  .flex-container {
+    flex-direction: column;
+  }
 }

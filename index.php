@@ -24,7 +24,37 @@
             Dictum sit amet justo donec enim diam vulputate ut. Felis t dolor. Nulla facilisi morbi tempus iaculis urna.</p>
           </div>
   </div>
-<footer><h3>This is the footer</h3></footer>
+<footer>
+  <div class="flex-container">
+      <div>
+
+        <h3>Column 1</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
+        
+      </div>
+      <div>
+          
+        <h3>Column 2</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
+        
+
+      </div>
+      <div>
+          
+        <h3>Column 3</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
+        
+
+      </div>
+      <div>
+          
+        <h3>Column 4</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore </p>
+        
+        
+      </div>
+  </div>
+</footer>
 
 </body>
 </html>
